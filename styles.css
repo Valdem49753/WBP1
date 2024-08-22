@@ -1,0 +1,15 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+#greeting {
+    font-size: 4em;
+    font-family: 'Arial', sans-serif; /* You can replace this with any web-safe font or Google Font */
+    color: #333;
+}
